@@ -22,5 +22,5 @@ BalanceFactor = height(left-subtree) − height(right-subtree)
 
 If the difference in the height of left and right subtrees is more than 1, the tree is balanced using some rotation techniques.
 AVL Rotations
-To balance itself, an AVL tree may perform the following four kinds of rotations − Left rotation, Right rotation, Left-Right rotation, Right-Left rotation
+To balance itself, an AVL tree may perform the following four kinds of rotations − Left rotation, Right rotation, Left-Right rotation, Right-Left rotation. 
 Each of these rotations have been implemented in the code, along with a driver function and standard traversal techniques. There is also a function to print the structure of a rearranged AVL tree (and each node’s balance factor) using adequate spacing.
